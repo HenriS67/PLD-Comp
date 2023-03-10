@@ -36,6 +36,26 @@
         "utility": "cpp",
         "__nullptr": "cpp",
         "cwctype": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "cstring": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "filesystem": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "string": "cpp",
+        "cctype": "cpp",
+        "cmath": "cpp",
+        "cwchar": "cpp",
+        "deque": "cpp",
+        "iosfwd": "cpp",
+        "new": "cpp",
+        "optional": "cpp",
+        "stdexcept": "cpp",
+        "streambuf": "cpp",
+        "string_view": "cpp",
+        "system_error": "cpp",
+        "thread": "cpp",
+        "tuple": "cpp"
     }
 }
