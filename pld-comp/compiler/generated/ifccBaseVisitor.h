@@ -23,6 +23,10 @@ public:
     return visitChildren(ctx);
   }
 
+  virtual antlrcpp::Any visitCode(ifccParser::CodeContext *ctx) override {
+    return visitChildren(ctx);
+  }
+
 
 };
 
